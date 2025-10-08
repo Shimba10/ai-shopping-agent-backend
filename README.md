@@ -1,4 +1,8 @@
 commands -> 
+Create virtual environment->
+a->virtualenv env
+b-> env\scripts\activate (windows) if linux or mac then source env/scripts/activate
+commands ->
 1-python manage.py makemigrations
 2- python manage.py migrate
 3- python manage.py seedphones
